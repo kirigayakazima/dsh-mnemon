@@ -5,6 +5,7 @@ coverage/
 *.log
 .DS_Store
 *.tgz
+*.tar.gz
 
 # Local API keys and endpoints (never committed)
 .env
